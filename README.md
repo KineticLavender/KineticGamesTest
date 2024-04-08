@@ -1,0 +1,20 @@
+We’re thrilled to have you participate in the Kinetic Games programming test!
+
+This project provides a rudimentary player character controller equipped with three types of firearms.
+
+At present, the character can navigate using the WASD keys, adjust the viewing angle with the mouse, and discharge the pistol by clicking the left mouse button.
+
+Here are your tasks:
+- Rectify the pistol’s functionality - it’s currently discharging continuously when the mouse button is held down.
+- Configure the shotgun and machine gun to discharge bullets appropriately.
+- Establish an interaction system that allows us to pick up each firearm and use them independently. We encourage you to think outside the box here (e.g., develop pickup/drop mechanics, create an inventory system, etc.)
+- Enhance the efficiency of the existing code base as much as possible.
+- Feel free to introduce any additional features or improvements that you believe would further enhance performance or functionality.
+
+Please keep in mind:
+- There’s no such thing as a wrong answer, and there are multiple ways to accomplish the same goal.
+- Refrain from using any AI assistance (though Intellisense is acceptable).
+- Do not incorporate any assets from the Unity Asset store.
+- Please avoid copying or using code from external sources, such as tutorials, Unity forums, etc.
+- You’re welcome to refer to the Unity documentation for any necessary information.
+- Take as much time as you need, but we’d appreciate it if you could let us know approximately how long you spent on the project.
